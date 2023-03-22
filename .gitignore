@@ -1,0 +1,15 @@
+# Python cache and checkpoints
+*.ipynb_checkpoints
+*__pycache__
+**/.DS_Store
+
+# Data files
+*.csv
+*.wav
+*.json
+*.zip
+*.npz
+
+# Models
+*.h5
+*.hdf5

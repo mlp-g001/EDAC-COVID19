@@ -6,7 +6,6 @@
 # Data files
 *.csv
 *.wav
-*.json
 *.zip
 *.npz
 

@@ -1,7 +1,7 @@
 # EDAC-COVID19
 
 This repository contains the materials for our research project titled: "Efficient Deployment of Audio Classification Models For COVID-19 Detection". The repository is structured as follows:
-
+```
 📦EDAC-COVID19
  ┣ 📂notebooks
  ┃ ┣ 📜attention_model_graphs.ipynb
@@ -27,4 +27,4 @@ This repository contains the materials for our research project titled: "Efficie
  ┃ ┣ 📜spec_augment_sets.py
  ┃ ┗ 📜utils.py
  ┗ 📜README.md
-
+```
